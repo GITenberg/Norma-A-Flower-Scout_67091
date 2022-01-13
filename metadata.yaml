@@ -1,0 +1,27 @@
+_repo: Norma-A-Flower-Scout_67091
+_version: 0.0.1
+creator:
+  author:
+    agent_name: Roy, Lillian Elizabeth
+    alias: Roy, Lillian Elizabeth Becker
+    birthdate: 1868
+    deathdate: 1932
+    gutenberg_agent_id: '1910'
+    url: http://www.gutenberg.org/2009/agents/1910
+description: ''
+gutenberg_issued: '2022-01-03'
+identifiers:
+  gutenberg: '67091'
+language: en
+pgterms:marc905: 20211118051906roy
+pgterms:marc906: '1925'
+pgterms:marc907: US
+production_note: Roger Frank and the Online Distributed Proofreading Team at https://www.pgdp.net
+publication_note: United States :A. L. Burt Company,1925.
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- GITenberg
+title: 'Norma: A Flower Scout'
+url: http://www.gutenberg.org/ebooks/67091
